@@ -1,6 +1,6 @@
 
 ## Installation
-1. cd to your preferred directory and run ' git clone https://github.com/Jakel21/vehicle-ReID '.
+1. cd to your preferred directory and run ' https://github.com/HassanAliAsghar/PakvehicleReId '.
 2. Install dependencies by pip install -r requirements.txt (if necessary).
 ## Datasets
 + [PakvehicleReID](https://github.com/VehicleReId/VeRidataset)
