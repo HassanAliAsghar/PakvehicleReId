@@ -76,4 +76,5 @@ python test_imgreid.py \
 ### Results
 Here are some results of proposed text detector on our PakVehicle-ReID dataset.
 ![Qualitative Examples of SOTA Methods on PakVehicle-ReID](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/result.png)
-
+ ### Acknowledgments
+ This code is inspired by (https://github.com/Jakel21/vehicle-ReID-baseline)
