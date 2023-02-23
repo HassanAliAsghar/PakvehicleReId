@@ -13,8 +13,22 @@ The challenge of re-identifying vehicles in urban city surveillance systems and 
 ## Dataset
 + [PakvehicleReID]()
 
+### Installations
+1. cd to your preferred directory and run ' https://github.com/HassanAliAsghar/PakvehicleReId '.
+2. The following libraries/packages are required for successful execution of this project.
 
+  - PyTorch
+  - Shapely
+  - Opencv
+  - TensorboardX
 
+3. For convience, please execute `requirements.txt` in cmd prompt.
+
+### Downloads
+The following files must be downloaded for successful setup.
+1. **Dataset**
+    Please download the PakVehicle-ReID dataset from our google drive [link]().
+    After completion, put the training and test folders in `dataset` directory.
 
 ## Models
 + resnet50
