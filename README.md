@@ -6,7 +6,7 @@ Unconstrained Urban Road Environment**" - which is under review in **Pattern Rec
 The challenge of re-identifying vehicles in urban city surveillance systems and major traffic arteries such as highways and roads is an important area of research. The advent of large-scale benchmarks such as VeRI-776 and Vehicle-ID has propelled efforts to enhance search operations from large databases for re-identification. However, several unresolved challenges associated with vehicle re-identification in unconstrained environments remain to be explored. In order to foster research in this field, we have compiled a new multi-perspective dataset, PAKVehicle-ReId, captured by real-world surveillance cameras in urban cities in Pakistan and India. To the best of our knowledge, this is the first such dataset collected under unconstrained conditions in the Asian region. The dataset comprises 80,000 images of 20,000 unique vehicles. Additionally, a deep learning-based technique for extracting multi- dimensional robust features for vehicle re-identification using convolutional neural networks has been proposed. The results show the effectiveness of the proposed method on the PAKVehicle-ReId dataset as well as on two other existing datasets, VeRi-776 and VehicleID. 
 
 ## Methodology Diagram
-
+![The Method](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Archi-update-2.png)
 ## Installation
 1. cd to your preferred directory and run ' https://github.com/HassanAliAsghar/PakvehicleReId '.
 2. Install dependencies by pip install -r requirements.txt (if necessary).
