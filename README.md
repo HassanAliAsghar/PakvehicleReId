@@ -7,11 +7,7 @@ The challenge of re-identifying vehicles in urban city surveillance systems and 
 
 ## Methodology Diagram
 ![The Method](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Archi-update-2.png)
-## Installation
-1. cd to your preferred directory and run ' https://github.com/HassanAliAsghar/PakvehicleReId '.
-2. Install dependencies by pip install -r requirements.txt (if necessary).
-## Dataset
-+ [PakvehicleReID]()
+
 
 ### Installations
 1. cd to your preferred directory and run ' https://github.com/HassanAliAsghar/PakvehicleReId '.
