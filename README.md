@@ -73,6 +73,7 @@ python test_imgreid.py \
 --save-dir log/Pakvehiclereid \
 --gpu-devices 0 \
 ```
-
+### Results
+Here are some results of proposed text detector on our PakVehicle-ReID dataset.
 
 
