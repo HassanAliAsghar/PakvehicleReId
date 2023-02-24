@@ -71,7 +71,7 @@ python test_imgreid.py \
 ![Qualitative Examples of SOTA Methods on PakVehicle-ReID](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/result.png)
 ### SR Resluts
 ![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Capture111.PNG)
-![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Capture2222.PNG)\
+![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Capture2222.PNG)
 
 # Citation
 - If you follow the code or ideas from our paper, please cite our paper:
