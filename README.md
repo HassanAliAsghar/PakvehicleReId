@@ -26,11 +26,7 @@ The following files must be downloaded for successful setup.
     Please download the PakVehicle-ReID dataset from our google drive [link]().
     After completion, put the training and test folders in `dataset` directory.
 
-## Models
-+ resnet50
-## Losses
-+ cross entropy loss
-+ triplet loss
+
 
 ## Step to run notebook
 ### train
@@ -70,7 +66,7 @@ python test_imgreid.py \
 --gpu-devices 0 \
 ```
 ## Results
-Here are some results of proposed text detector on our PakVehicle-ReID dataset.
+
 ### Visual Results of Query Matching againts Vehicles Gallery 
 ![Qualitative Examples of SOTA Methods on PakVehicle-ReID](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/result.png)
 ### SR Resluts
