@@ -9,7 +9,7 @@ The challenge of re-identifying vehicles in urban city surveillance systems and 
 ![The Method](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Archi-update-2.png)
 
 
-### Installations
+## Installations
 1. cd to your preferred directory and run ' https://github.com/HassanAliAsghar/PakvehicleReId '.
 2. The following libraries/packages are required for successful execution of this project.
 
