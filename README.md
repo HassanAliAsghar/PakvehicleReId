@@ -69,7 +69,7 @@ python test_imgreid.py \
 
 ### Visual Results of Query Matching againts Vehicles Gallery 
 ![Qualitative Examples of SOTA Methods on PakVehicle-ReID](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/result.png)
-### SR Resluts
+### Quantative Results
 ![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Capture111.PNG)
 ![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Capture2222.PNG)
 
