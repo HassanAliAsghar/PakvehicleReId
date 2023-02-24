@@ -32,7 +32,7 @@ The following files must be downloaded for successful setup.
 + cross entropy loss
 + triplet loss
 
-## Tutorial
+## Step to run notebook
 ### train
 Input arguments for the training scripts are unified in [args.py](./args.py).
 To train an image-reid model, you can do
