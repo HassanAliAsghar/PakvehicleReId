@@ -6,7 +6,7 @@ Unconstrained Urban Road Environment**" - which is under review in **Pattern Rec
 The challenge of re-identifying vehicles in urban city surveillance systems and major traffic arteries such as highways and roads is an important area of research. The advent of large-scale benchmarks such as VeRI-776 and Vehicle-ID has propelled efforts to enhance search operations from large databases for re-identification. However, several unresolved challenges associated with vehicle re-identification in unconstrained environments remain to be explored. In order to foster research in this field, we have compiled a new multi-perspective dataset, PAKVehicle-ReId, captured by real-world surveillance cameras in urban cities in Pakistan and India. To the best of our knowledge, this is the first such dataset collected under unconstrained conditions in the Asian region. The dataset comprises 80,000 images of 20,000 unique vehicles. Additionally, a deep learning-based technique for extracting multi- dimensional robust features for vehicle re-identification using convolutional neural networks has been proposed. The results show the effectiveness of the proposed method on the PAKVehicle-ReId dataset as well as on two other existing datasets, VeRi-776 and VehicleID. 
 
 ## Methodology 
-![The Method](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Archi-update-2.jpg)
+![The Method](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Archit.jpg)
 
 
 ## Installations
@@ -70,8 +70,8 @@ python test_imgreid.py \
 ### Visual Results of Query Matching againts Vehicles Gallery 
 ![Qualitative Examples of SOTA Methods on PakVehicle-ReID](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/result.png)
 ### Quantative Results
-![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Capture111.PNG)
-![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/Capture2222.PNG)
+![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/123.PNG)
+![Quantative Results](https://github.com/HassanAliAsghar/PakvehicleReId/blob/main/docs/234.PNG)
 
 # Citation
 - If you follow the code or ideas from our paper, please cite our paper:
